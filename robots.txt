@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://foaldex.github.io/zyx/zyx.txt
